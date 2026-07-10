@@ -2,3 +2,4 @@ hello
 this is my first git file
 appending text
 cat /etc/passwd
+cat /etc/group
